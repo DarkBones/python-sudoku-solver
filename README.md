@@ -32,7 +32,7 @@ Errors:
     - The puzzle is not solvable by the rules of sudoku. The most common cause is a digit being in a row, column or sub-grid more than once.
 - ERROR 503: No file specified
     - No file was specified in the command to run the solver. Run the solver with the following command:
-      - sudoku_solver.py <file location of unsolved puzzle>
+      - sudoku_solver.py <file location of unsolved puzzle> 
       - example:
       - sudoku_solver.py sudoku_puzzle.txt
 - ERROR 502: File not found
